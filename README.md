@@ -78,26 +78,6 @@ Fetch all orders
 
 ---
 
-## Installation
-
-### Clone Repository
-
-git clone https://github.com/your-username/multi-vendor-ecommerce.git
-
-### Install Dependencies
-
-npm install
-
-### Start Backend
-
-node server.js
-
-### Start Frontend
-
-npm run dev
-
----
-
 ## Future Enhancements
 
 - User Authentication
